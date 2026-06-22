@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.RENOVATE }}
         env:
           LOG_LEVEL: "debug"
-          RENOVATE_REPOSITORIES: "LiliSoli/RENOVATE"
+          RENOVATE_REPOSITORIES: "LiliSoli/renovateNodeCICD"
 
       - name: Clean container
         if: always()
