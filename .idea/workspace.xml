@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ea7d33-5fe1-47f4-a476-a41646aabe1c" name="Changes" comment="Test ci.yml">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ci.yml" afterDir="false" />
+    <list default="true" id="e8ea7d33-5fe1-47f4-a476-a41646aabe1c" name="Changes" comment="add docker Scout">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782119303343</updated>
-      <workItem from="1782119304383" duration="6919000" />
+      <workItem from="1782119304383" duration="9355000" />
     </task>
     <task id="LOCAL-00001" summary="Test ci.yml">
       <option name="closed" value="true" />
@@ -87,7 +87,39 @@
       <option name="project" value="LOCAL" />
       <updated>1782131097493</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix ci.yml">
+      <option name="closed" value="true" />
+      <created>1782131518619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782131518619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix ci.yml">
+      <option name="closed" value="true" />
+      <created>1782132426596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1782132426596</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix ci.yml">
+      <option name="closed" value="true" />
+      <created>1782132623356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782132623356</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add docker Scout">
+      <option name="closed" value="true" />
+      <created>1782133395049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782133395049</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test ci.yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test ci.yml" />
+    <MESSAGE value="fix ci.yml" />
+    <MESSAGE value="add docker Scout" />
+    <option name="LAST_COMMIT_MESSAGE" value="add docker Scout" />
   </component>
 </project>

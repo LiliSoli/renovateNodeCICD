@@ -47,3 +47,4 @@ jobs:
           only-severities: critical,high
           exit-code: true                      # fait échouer le job si vulnérabilités
 
+
