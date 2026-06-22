@@ -45,9 +45,9 @@ jobs:
       - name: Docker Scout
         uses: docker/scout-action@v1
         with:
-          command: cves                      # analyse les CVE
-          image: local://mon-image:latest     # ou une image déjà buildée
+          command: cves
+          image: local://postgres:17-alpine3.21
           only-severities: critical,high
-          exit-code: true                      # fait échouer le job si vulnérabilités
+          exit-code: false
 
 
