@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: install action
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       - name: docker && docker compose check
         run:
